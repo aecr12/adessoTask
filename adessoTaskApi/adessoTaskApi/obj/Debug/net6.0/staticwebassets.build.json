@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5I5M4OnVuwbhROsOmtSzH22uoYxI5jnoYD9pN5L9ba4=",
+  "Source": "adessoTaskApi",
+  "BasePath": "_content/adessoTaskApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
