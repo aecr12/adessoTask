@@ -22,7 +22,7 @@ dotnet add package Microsoft.EntityFrameworkCore.Tools
 ## Kullanım
 
 Öncelikle "dotnet ef migrations add '_?aciklama?-'" komutu ile migration alınır ve ardından "dotnet ef database update" komutu ile veritabanı güncellenir.
-Proje çalıştığında swagger üzerinde belirtilen kaynağa gidilerek, grup sayısı - isim - soyisim ile kaynağa (https://localhost::port?/api/FixtureDraw/Draw) istek atılır. Proje dökümanında verilen referans datalar oluşturulmamışsa, kaynağa istek atıldığında databasede yok ise oluşturulacak şekilde kodlanmıştır.
+Proje çalıştığında swagger üzerinde belirtilen kaynağa gidilerek, grup sayısı - isim - soyisim ile kaynağa (https://localhost:port?/api/FixtureDraw/Draw) istek atılır. Proje dökümanında verilen referans datalar oluşturulmamışsa, kaynağa istek atıldığında databasede yok ise oluşturulacak şekilde kodlanmıştır.
 
 ## Belirlediğim Buglar
 Group tablsunda istek atan kişinin ve takımın bilgileri yazmıyor, DTO'dan Entity'e maplerken bu iki niteliğin fonksiyona verilmediği fark edildi.
