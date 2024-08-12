@@ -26,4 +26,4 @@ Proje çalıştığında swagger üzerinde belirtilen kaynağa gidilerek, grup s
 
 ## Belirlediğim Buglar
 Group tablsunda istek atan kişinin ve takımın bilgileri yazmıyor, DTO'dan Entity'e maplerken bu iki niteliğin fonksiyona verilmediği fark edildi.
-8 gruba 4 takım dağıtıldğı durumda yanlış bir mantık izlend,.
+8 gruba 4 takım dağıtıldğı durumda yanlış bir mantık izlendi.
