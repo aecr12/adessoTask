@@ -1,6 +1,6 @@
 # Adesso World League
 
-Grupları takımlara belirtilen şartlara göre dağıtarak fikstür sağlayan bir api uygulaması.
+Gruplara takımları belirtilen şartlara göre dağıtarak fikstür sağlayan bir api uygulaması.
 Asp.Net 6.0 ve entity framework - postgresql kullanılmıştır.
 
 ## Kurulum
